@@ -8,5 +8,5 @@ deploy:
   provider: script
   script: scripts/deploy.sh
   on:
-    branch: master
+    branch: plgrnd
   skip_cleanup: true

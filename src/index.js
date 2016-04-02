@@ -6,7 +6,7 @@ import {Plgrnd} from 'plgrnd';
 })
 
 @View({
-  directives: [Plgrnd0],
+  directives: [Plgrnd],
   template: `
     <plgrnd></plgrnd>
   `
