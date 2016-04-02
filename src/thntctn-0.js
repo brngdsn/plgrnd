@@ -1,17 +1,17 @@
 import {ComponentMetadata as Component, ViewMetadata as View} from 'angular2/angular2';
 
 @Component({
-  selector: 'thntctn-0'
+  selector: 'plgrnd'
 })
 
 @View({
-  templateUrl: 'thntctn-0.html'
+  templateUrl: 'plgrnd.html'
 })
 
-export class Thntctn0 {
+export class Plgrnd {
 
   constructor() {
-    console.info('Thntctn0 Component Mounted Successfully');
+    console.info('Plgrnd Component Mounted Successfully');
   }
 
 }
